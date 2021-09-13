@@ -1,4 +1,4 @@
-const fragmentSplitter = (file, fragmentSize) => {
+const fileSplitter = (file, fragmentSize) => {
 
     if (file === undefined){
         return []
@@ -34,4 +34,4 @@ const fragmentSplitter = (file, fragmentSize) => {
   }
 
 
-  exports.module.fragmentSplitter = fragmentSplitter
+  exports.module.fileSplitter = fileSplitter
