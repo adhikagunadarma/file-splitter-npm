@@ -1,9 +1,6 @@
 # What is this?
 
-Update your images to get some shadows.
-Best tools used to work with non-designer.
-A customized reference source code from DesignCourse Tutorial 
-
+NPM Package that will split file into multiple fragments
 # Installation
 
 `npm i file-splitter --save`
