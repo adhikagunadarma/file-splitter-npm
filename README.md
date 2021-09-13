@@ -3,11 +3,11 @@
 NPM Package that will split file into multiple fragments
 # Installation
 
-`npm i file-splitter --save`
+`npm i f-split --save`
 
 Then...
 
-`import {fileSplitter} from file-splitter`
+`import {fileSplitter} from f-split`
 
 # Use case
 
