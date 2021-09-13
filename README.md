@@ -7,7 +7,7 @@ NPM Package that will split file into multiple fragments
 
 Then...
 
-`import {fileSplitter} from file-fragment-split`
+`import { fileSplitter } from 'file-fragment-split';`
 
 # Use case
 
