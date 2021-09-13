@@ -1,6 +1,6 @@
 {
   "name": "file-fragment-split",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "description": "NPM Package that will split file into multiple fragments",
   "main": "index.js",
   "scripts": {
