@@ -1,5 +1,13 @@
 const fragmentSplitter = (file, fragmentSize) => {
 
+    if (file === undefined){
+        return []
+    }
+
+    if (fragmentSize === undefined){
+        fragmentSize = 3
+    }
+
     var fragmentSize = fragmentSize * 1024 * 1024; // coba dari per 100 kb, nanti harusnya dari input yg dikasih
     var fileSize = file.size;
     var totalFragments = Math.ceil(fileSize/fragmentSize,fragmentSize);
