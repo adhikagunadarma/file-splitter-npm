@@ -1,0 +1,23 @@
+{
+  "name": "file-splitter",
+  "version": "0.0.1",
+  "description": "NPM Package that will split file into multiple fragments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adhikagunadarma/file-splitter-npm.git"
+  },
+  "keywords": [
+    "split",
+    "file"
+  ],
+  "author": "adhika gunadarma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adhikagunadarma/file-splitter-npm/issues"
+  },
+  "homepage": "https://github.com/adhikagunadarma/file-splitter-npm#readme"
+}
